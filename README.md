@@ -1,4 +1,4 @@
-# W-B
+# Weight And Balance Calculator for VL 3 Models
 written with SwiftUI
 
 ![](WANDBOne.gif)
